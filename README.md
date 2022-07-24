@@ -36,6 +36,11 @@ Second, install `IHProgressHUD` into your project:
 pod install
 ```
 
+### From Carthage
+```
+github "Swiftify-Corp/IHProgressHUD" == 0.1.9
+```
+
 ### From SwiftPM
 
 Under your project from the `File` menu, go to `Swift Packages` and select `Add Package Dependency`
