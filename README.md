@@ -38,7 +38,7 @@ pod install
 
 ### From Carthage
 ```
-github "Swiftify-Corp/IHProgressHUD" == 0.1.9
+github "tangzzz-fan/IHProgressHUD" == 0.1.9
 ```
 
 ### From SwiftPM
